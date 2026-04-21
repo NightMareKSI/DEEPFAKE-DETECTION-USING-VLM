@@ -79,3 +79,5 @@ final_prediction = "FAKE" if votes["FAKE"] > votes["REAL"] else "REAL"
 
 print("🎥 Video Prediction:", final_prediction)
 print(f"🧮 Votes → REAL: {votes['REAL']}, FAKE: {votes['FAKE']}")
+
+#updated by Aarush 
